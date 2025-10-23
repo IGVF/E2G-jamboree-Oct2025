@@ -1,0 +1,8 @@
+name: generate_motif_densities_jaspar
+channels: 
+  - conda-forge
+  - defaults
+dependencies: 
+  - pandas=2.3.2
+  - pybigwig=0.3.24
+  - python=3.10.14
