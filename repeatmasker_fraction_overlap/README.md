@@ -6,7 +6,10 @@ date: 2025-10-23*
 - Download RepeatMasker annotation for hg38
 - I downloaded repeatmasker annotations from UCSC: 2025-10-23
     - downloading will be done automatically in the script (from UCSC)
-
+### About the feature:
+- it is an number between 0 and 1 indicating the fraction of the element region that overlaps with Repeatmasker annotated regions
+- if no overlap is found, the value is 0
+- if no region is found (e.g. element length = 0), the value is 0
 ### About Repeatmasker:
 - Number of different repeat families:
   - all: 15600
