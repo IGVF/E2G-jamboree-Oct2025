@@ -2,7 +2,7 @@
 
 Required input files:
 - E2G pair universe file
-- JASPAR hg38 annotations bigBed file: `https://hgdownload.soe.ucsc.edu/gbdb/hg38/jaspar/JASPAR2024.bb`
+- [JASPAR hg38 annotations bigBed file](https://hgdownload.soe.ucsc.edu/gbdb/hg38/jaspar/JASPAR2024.bb)
 
 Feature columns:
 | Feature name | Description |
