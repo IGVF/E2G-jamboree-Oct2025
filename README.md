@@ -1,2 +1,15 @@
 # E2G-jamboree-Oct2025
-hello
+
+Dependancies: Pandas
+
+
+label_gene_ENCODE_stats.py
+Calculates gene statistics from ENCODE RNA-seq data grouped by biosample type. Calculates mean, std, and disp=mean/(std+1) mean normalized TPM for each gene. Genes not labeled in table (not many) are set to default value 1,1,0.5. Requires ENCODE RNA-seq data saved in ENCODE_RNA.tsv.gz and ENCODE_RNA_info.tsv. The idea is that housekeeping genes (low std, low disp) may not be effected by perturbations/variants of nearby regulatory elements. Thus, including this information may help avoid false positives.
+
+Usage: python3 label_gene_ENCODE_stats.py fname.tsv.gz
+
+
+label_TFs.py
+Labels genes as TF (1) or not TF (0). TFs are taken from list currated in Lambert et al. Cell 2018 https://pubmed.ncbi.nlm.nih.gov/29425488/. The idea is that genes encoding TFs may correlate with peaks because the TF binds to the peak rather than the peak regulating the TF encoding gene. Thus, it may reasonable to remove TF encoding genes when using correlation-based features or mask correlation-based features for TF genes.
+
+Usage: python3 label_TFs.py fname.tsv.gz
