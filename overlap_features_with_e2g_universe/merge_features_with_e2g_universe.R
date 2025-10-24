@@ -1,7 +1,6 @@
-## Merge features with ABC table
-
-# save.image("merge_e2g_candidates.rda")
-# stop()
+## Merge new features with ABC E2G candidate universe
+# Andreas Gschwind and Kayla Brand
+# October 24, 2025
 
 # required packages
 suppressPackageStartupMessages({
@@ -85,24 +84,13 @@ merge_feature_to_e2g_candidates <- function(e2g_candidates, features, feature_sc
   
   # get pairs from e2g_candidates table that are missing from features 
   missing <- e2g_candidates[setdiff(seq_len(nrow(e2g_candidates)), queryHits(ovl)), ]
-  
-  # # # fill in missing value for features in missing pairs
-  # new_cols <- as.data.frame(
-  # lapply(available_features_renamed, function(x) rep(fill_value, nrow(missing))),
-  # stringsAsFactors = FALSE
-  # )
-  # names(new_cols) <- available_features_renamed
-  # # create/overwrite columns in missing
-  # missing[available_features_renamed] <- new_cols
 
-  if (nrow(missing)>0) {
-    for (i in available_features_renamed) {
-      missing[[i]] <- fill_value
-    }
-  }
+  # Add columns of fill value for each column for the subset of unmatched E2G candidates
+  # Can add columns even when missing has zero rows
+  missing[, (available_features_renamed) := fill_value]
   
   # combine merged and missing pairs to create output
-  output <- rbindlist(list(merged, missing), fill = TRUE)
+  output <- rbind(merged, missing)
   
   # sort output by cre position
   output <- output[order(ElementChr, ElementStart, ElementEnd, GeneEnsemblID), ]
