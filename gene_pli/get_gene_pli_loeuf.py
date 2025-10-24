@@ -21,31 +21,33 @@ e2g_universe = pd.read_csv(
     sep = '\t'
 )
 
-# read in gene pLI info
+# read in gene constraint info from gnomAD
 gene_info = pd.read_table(
     args.gnomad_file
 )
 
-# filter for gene name and pLI info
-gene_info = gene_info[['gene', 'pLI']]
+# filter for gene name and pLI and LOEUF info
+gene_info = gene_info[['gene', 'pLI', 'oe_lof_upper']]
 
 # rename columns for merge
-gene_info.columns = ['GeneSymbol', 'pLI']
+gene_info.columns = ['GeneSymbol', 'pLI', 'LOEUF']
 
-# get mean pLI (for imputation)
+# get mean pLI and LOEUF (for imputation)
 mean_pli = gene_info['pLI'].mean()
+mean_loeuf = gene_info['LOEUF'].mean()
 
-# merge pLI scores with E2G universe
-e2g_universe_pli = e2g_universe.merge(
+# merge pLI and LOEUF scores with E2G universe
+e2g_universe_merged = e2g_universe.merge(
     gene_info,
     how = 'left'
 )
 
-# impute missing pLIs with mean pLI across all genes
-e2g_universe_pli['pLI'] = e2g_universe_pli['pLI'].fillna(mean_pli)
+# impute missing pLIs and LOEUFs with mean pLI and LOEUFs across all genes
+e2g_universe_merged['pLI'] = e2g_universe_merged['pLI'].fillna(mean_pli)
+e2g_universe_merged['LOEUF'] = e2g_universe_merged['LOEUF'].fillna(mean_loeuf)
 
 # write to output file
-e2g_universe_pli.to_csv(
+e2g_universe_merged.to_csv(
     args.output_path,
     index = False
 )
