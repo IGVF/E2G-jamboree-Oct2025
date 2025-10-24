@@ -1,0 +1,397 @@
+tsv	Biosample.term.name	ID
+ENCFF298MLY.tsv	thoracic aorta endothelial cell	ENCFF298MLY
+ENCFF736RHN.tsv	smooth muscle cell of bladder	ENCFF736RHN
+ENCFF970GMU.tsv	bladder microvascular endothelial cell	ENCFF970GMU
+ENCFF570HNK.tsv	melanocyte of skin	ENCFF570HNK
+ENCFF516WWE.tsv	urinary bladder	ENCFF516WWE
+ENCFF326EAR.tsv	uterus	ENCFF326EAR
+ENCFF171FQU.tsv	K562	ENCFF171FQU
+ENCFF508KLW.tsv	parietal lobe	ENCFF508KLW
+ENCFF733XOH.tsv	renal cortical epithelial cell	ENCFF733XOH
+ENCFF607LUW.tsv	stomach	ENCFF607LUW
+ENCFF240WBI.tsv	GM12878	ENCFF240WBI
+ENCFF658UGF.tsv	diencephalon	ENCFF658UGF
+ENCFF617KGY.tsv	placental epithelial cell	ENCFF617KGY
+ENCFF362RMV.tsv	GM12878	ENCFF362RMV
+ENCFF931XZE.tsv	frontal cortex	ENCFF931XZE
+ENCFF476TED.tsv	dermis blood vessel endothelial cell	ENCFF476TED
+ENCFF421HFS.tsv	mesenchymal stem cell of Wharton's jelly	ENCFF421HFS
+ENCFF506QCN.tsv	lung microvascular endothelial cell	ENCFF506QCN
+ENCFF549QYX.tsv	heart	ENCFF549QYX
+ENCFF427ATU.tsv	endometrial microvascular endothelial cells	ENCFF427ATU
+ENCFF235JKT.tsv	pulmonary artery endothelial cell	ENCFF235JKT
+ENCFF624CGV.tsv	placental pericyte	ENCFF624CGV
+ENCFF798WGM.tsv	mammary epithelial cell	ENCFF798WGM
+ENCFF900TJU.tsv	mononuclear cell	ENCFF900TJU
+ENCFF648ISY.tsv	vein endothelial cell	ENCFF648ISY
+ENCFF363CQN.tsv	hematopoietic multipotent progenitor cell	ENCFF363CQN
+ENCFF186ITS.tsv	naive thymus-derived CD4-positive, alpha-beta T cell	ENCFF186ITS
+ENCFF712ADS.tsv	mammary microvascular endothelial cell	ENCFF712ADS
+ENCFF677IBW.tsv	CD8-positive, alpha-beta T cell	ENCFF677IBW
+ENCFF856QGB.tsv	activated CD8-positive, alpha-beta memory T cell	ENCFF856QGB
+ENCFF760SNF.tsv	stimulated activated CD8-positive, alpha-beta T cell	ENCFF760SNF
+ENCFF554FCJ.tsv	activated CD8-positive, alpha-beta T cell	ENCFF554FCJ
+ENCFF188GCO.tsv	naive thymus-derived CD8-positive, alpha-beta T cell	ENCFF188GCO
+ENCFF220VSM.tsv	osteoblast	ENCFF220VSM
+ENCFF173MKF.tsv	skeletal muscle satellite cell	ENCFF173MKF
+ENCFF954SRP.tsv	CD4-positive, alpha-beta T cell	ENCFF954SRP
+ENCFF316JPH.tsv	activated CD4-positive, alpha-beta T cell	ENCFF316JPH
+ENCFF439GEM.tsv	activated CD4-positive, alpha-beta memory T cell	ENCFF439GEM
+ENCFF716LRF.tsv	bronchus fibroblast of lung	ENCFF716LRF
+ENCFF149ZZO.tsv	HT1080	ENCFF149ZZO
+ENCFF869MFP.tsv	myocyte	ENCFF869MFP
+ENCFF368UEC.tsv	fibroblast of dermis	ENCFF368UEC
+ENCFF557IQC.tsv	thyroid gland	ENCFF557IQC
+ENCFF934COC.tsv	hair follicular keratinocyte	ENCFF934COC
+ENCFF998GQD.tsv	activated CD4-positive, alpha-beta memory T cell	ENCFF998GQD
+ENCFF127XUK.tsv	activated CD4-positive, alpha-beta memory T cell	ENCFF127XUK
+ENCFF049ZXW.tsv	CD4-positive, alpha-beta memory T cell	ENCFF049ZXW
+ENCFF989OGW.tsv	stimulated activated CD8-positive, alpha-beta T cell	ENCFF989OGW
+ENCFF785OAV.tsv	CD4-positive, alpha-beta T cell	ENCFF785OAV
+ENCFF222WFS.tsv	CD8-positive, alpha-beta memory T cell	ENCFF222WFS
+ENCFF627IEL.tsv	hair follicle dermal papilla cell	ENCFF627IEL
+ENCFF307CQG.tsv	activated CD8-positive, alpha-beta memory T cell	ENCFF307CQG
+ENCFF494PJN.tsv	CD8-positive, alpha-beta T cell	ENCFF494PJN
+ENCFF553SMR.tsv	activated CD8-positive, alpha-beta memory T cell	ENCFF553SMR
+ENCFF902MQF.tsv	kidney epithelial cell	ENCFF902MQF
+ENCFF323PBK.tsv	mesenchymal stem cell of the bone marrow	ENCFF323PBK
+ENCFF554BFG.tsv	epithelial cell of alveolus of lung	ENCFF554BFG
+ENCFF384GJR.tsv	subcutaneous preadipocyte	ENCFF384GJR
+ENCFF410JLK.tsv	glomerular endothelial cell	ENCFF410JLK
+ENCFF780XPP.tsv	mesangial cell	ENCFF780XPP
+ENCFF738PEX.tsv	myometrial cell	ENCFF738PEX
+ENCFF619BUB.tsv	A673	ENCFF619BUB
+ENCFF257LZM.tsv	Karpas-422	ENCFF257LZM
+ENCFF147QDQ.tsv	NCI-H460	ENCFF147QDQ
+ENCFF268MYA.tsv	stimulated activated CD4-positive, alpha-beta T cell	ENCFF268MYA
+ENCFF594PJE.tsv	CD8-positive, alpha-beta memory T cell	ENCFF594PJE
+ENCFF768JVA.tsv	naive thymus-derived CD4-positive, alpha-beta T cell	ENCFF768JVA
+ENCFF606WIM.tsv	activated CD4-positive, alpha-beta memory T cell	ENCFF606WIM
+ENCFF118MYS.tsv	naive thymus-derived CD8-positive, alpha-beta T cell	ENCFF118MYS
+ENCFF980YEK.tsv	activated CD8-positive, alpha-beta memory T cell	ENCFF980YEK
+ENCFF595RTO.tsv	mesenchymal stem cell of adipose	ENCFF595RTO
+ENCFF588OXD.tsv	SJSA1	ENCFF588OXD
+ENCFF396FZT.tsv	HepG2	ENCFF396FZT
+ENCFF638CSF.tsv	airway epithelial cell	ENCFF638CSF
+ENCFF994LBK.tsv	CD4-positive, alpha-beta memory T cell	ENCFF994LBK
+ENCFF646YNM.tsv	cardiac ventricle fibroblast	ENCFF646YNM
+ENCFF611MXW.tsv	K562	ENCFF611MXW
+ENCFF561ERP.tsv	OCI-LY7	ENCFF561ERP
+ENCFF633DRY.tsv	articular chondrocyte of knee joint	ENCFF633DRY
+ENCFF674DQK.tsv	nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa	ENCFF674DQK
+ENCFF532XCI.tsv	fibroblast of lung	ENCFF532XCI
+ENCFF755TBK.tsv	tongue	ENCFF755TBK
+ENCFF391NQS.tsv	H4	ENCFF391NQS
+ENCFF082PRM.tsv	myotube	ENCFF082PRM
+ENCFF745LWF.tsv	activated CD8-positive, alpha-beta T cell	ENCFF745LWF
+ENCFF589BBG.tsv	heart	ENCFF589BBG
+ENCFF147QBI.tsv	camera-type eye	ENCFF147QBI
+ENCFF042PDK.tsv	metanephros	ENCFF042PDK
+ENCFF057WTO.tsv	smooth muscle cell of the pulmonary artery	ENCFF057WTO
+ENCFF846SOK.tsv	liver	ENCFF846SOK
+ENCFF678NWU.tsv	lung	ENCFF678NWU
+ENCFF476ZSX.tsv	occipital lobe	ENCFF476ZSX
+ENCFF910XWA.tsv	GM12878	ENCFF910XWA
+ENCFF990JEO.tsv	umbilical cord	ENCFF990JEO
+ENCFF222LEJ.tsv	skin of body	ENCFF222LEJ
+ENCFF052WIM.tsv	skeletal muscle tissue	ENCFF052WIM
+ENCFF364FZI.tsv	tracheal epithelial cell	ENCFF364FZI
+ENCFF026RBK.tsv	activated CD4-positive, alpha-beta T cell	ENCFF026RBK
+ENCFF864MBB.tsv	spinal cord	ENCFF864MBB
+ENCFF784PZE.tsv	stimulated activated CD4-positive, alpha-beta T cell	ENCFF784PZE
+ENCFF960OCQ.tsv	liver	ENCFF960OCQ
+ENCFF292FVY.tsv	mammary epithelial cell	ENCFF292FVY
+ENCFF805HLI.tsv	aortic smooth muscle cell	ENCFF805HLI
+ENCFF202XCC.tsv	regular cardiac myocyte	ENCFF202XCC
+ENCFF977FLH.tsv	smooth muscle cell of the coronary artery	ENCFF977FLH
+ENCFF203EQV.tsv	endothelial cell of coronary artery	ENCFF203EQV
+ENCFF454MTF.tsv	endothelial cell of umbilical vein	ENCFF454MTF
+ENCFF387IEG.tsv	K562	ENCFF387IEG
+ENCFF917PRB.tsv	bronchial smooth muscle cell	ENCFF917PRB
+ENCFF877GJA.tsv	PC-9	ENCFF877GJA
+ENCFF933HZI.tsv	melanocyte of skin	ENCFF933HZI
+ENCFF488DCO.tsv	K562	ENCFF488DCO
+ENCFF026WTQ.tsv	astrocyte	ENCFF026WTQ
+ENCFF103FSL.tsv	HepG2	ENCFF103FSL
+ENCFF446MZM.tsv	A375	ENCFF446MZM
+ENCFF882EWJ.tsv	PC-3	ENCFF882EWJ
+ENCFF662ADI.tsv	fibroblast of villous mesenchyme	ENCFF662ADI
+ENCFF060FCJ.tsv	smooth muscle cell of trachea	ENCFF060FCJ
+ENCFF046QVS.tsv	HT-29	ENCFF046QVS
+ENCFF366SYN.tsv	K562	ENCFF366SYN
+ENCFF823QHI.tsv	temporal lobe	ENCFF823QHI
+ENCFF029UWI.tsv	uterine smooth muscle cell	ENCFF029UWI
+ENCFF736CEQ.tsv	thyroid gland	ENCFF736CEQ
+ENCFF213EFU.tsv	fibroblast of the aortic adventitia	ENCFF213EFU
+ENCFF307SLN.tsv	K562	ENCFF307SLN
+ENCFF758GXN.tsv	WTC11	ENCFF758GXN
+ENCFF488ZHV.tsv	K562	ENCFF488ZHV
+ENCFF605EAB.tsv	bronchial epithelial cell	ENCFF605EAB
+ENCFF326PKO.tsv	M059J	ENCFF326PKO
+ENCFF807ORH.tsv	hepatocyte	ENCFF807ORH
+ENCFF467ISV.tsv	Daoy	ENCFF467ISV
+ENCFF989CEV.tsv	H7	ENCFF989CEV
+ENCFF944RFV.tsv	HepG2	ENCFF944RFV
+ENCFF668ZPO.tsv	cerebellum	ENCFF668ZPO
+ENCFF529HSE.tsv	HepG2	ENCFF529HSE
+ENCFF962YZV.tsv	dermis lymphatic vessel endothelial cell	ENCFF962YZV
+ENCFF246JXP.tsv	dermis microvascular lymphatic vessel endothelial cell	ENCFF246JXP
+ENCFF737ASX.tsv	smooth muscle cell of the umbilical artery	ENCFF737ASX
+ENCFF388LFO.tsv	epithelial cell of umbilical artery	ENCFF388LFO
+ENCFF685WJV.tsv	Caki2	ENCFF685WJV
+ENCFF019KLP.tsv	IMR-90	ENCFF019KLP
+ENCFF175USD.tsv	SK-MEL-5	ENCFF175USD
+ENCFF955BPJ.tsv	SJCRH30	ENCFF955BPJ
+ENCFF351WTM.tsv	pericardium fibroblast	ENCFF351WTM
+ENCFF716CWC.tsv	cardiac atrium fibroblast	ENCFF716CWC
+ENCFF922JNB.tsv	epithelial cell of proximal tubule	ENCFF922JNB
+ENCFF940WFO.tsv	LHCN-M2	ENCFF940WFO
+ENCFF717PSW.tsv	K562	ENCFF717PSW
+ENCFF314OZK.tsv	cardiac muscle cell	ENCFF314OZK
+ENCFF842TMB.tsv	K562	ENCFF842TMB
+ENCFF748QHT.tsv	skeletal muscle myoblast	ENCFF748QHT
+ENCFF676GUE.tsv	RPMI7951	ENCFF676GUE
+ENCFF921IWN.tsv	G401	ENCFF921IWN
+ENCFF575QDK.tsv	A172	ENCFF575QDK
+ENCFF296ZTM.tsv	K562	ENCFF296ZTM
+ENCFF730OTJ.tsv	GM23338	ENCFF730OTJ
+ENCFF545DTG.tsv	GM23248	ENCFF545DTG
+ENCFF567GQW.tsv	neural progenitor cell	ENCFF567GQW
+ENCFF776YSH.tsv	smooth muscle cell	ENCFF776YSH
+ENCFF649XOG.tsv	HepG2	ENCFF649XOG
+ENCFF976LMJ.tsv	thoracic aorta	ENCFF976LMJ
+ENCFF261ZPX.tsv	thoracic aorta	ENCFF261ZPX
+ENCFF973GEQ.tsv	K562	ENCFF973GEQ
+ENCFF710YES.tsv	adrenal gland	ENCFF710YES
+ENCFF280XKK.tsv	MG63	ENCFF280XKK
+ENCFF736QCV.tsv	adrenal gland	ENCFF736QCV
+ENCFF031CKR.tsv	esophagus squamous epithelium	ENCFF031CKR
+ENCFF045PTB.tsv	sigmoid colon	ENCFF045PTB
+ENCFF543MPI.tsv	dendritic cell	ENCFF543MPI
+ENCFF610HRQ.tsv	heart left ventricle	ENCFF610HRQ
+ENCFF285NIX.tsv	omental fat pad	ENCFF285NIX
+ENCFF559RWJ.tsv	omental fat pad	ENCFF559RWJ
+ENCFF370RMR.tsv	heart left ventricle	ENCFF370RMR
+ENCFF187XXH.tsv	gastrocnemius medialis	ENCFF187XXH
+ENCFF846ZKU.tsv	right atrium auricular region	ENCFF846ZKU
+ENCFF007QIH.tsv	dendritic cell	ENCFF007QIH
+ENCFF490WXZ.tsv	transverse colon	ENCFF490WXZ
+ENCFF577SLL.tsv	sigmoid colon	ENCFF577SLL
+ENCFF972PNH.tsv	thyroid gland	ENCFF972PNH
+ENCFF577KCY.tsv	subcutaneous adipose tissue	ENCFF577KCY
+ENCFF197RQL.tsv	tibial nerve	ENCFF197RQL
+ENCFF083JDV.tsv	foreskin keratinocyte	ENCFF083JDV
+ENCFF952ZOE.tsv	stomach	ENCFF952ZOE
+ENCFF118WDU.tsv	subcutaneous adipose tissue	ENCFF118WDU
+ENCFF216GIB.tsv	dendritic cell	ENCFF216GIB
+ENCFF005FVC.tsv	esophagus squamous epithelium	ENCFF005FVC
+ENCFF850OBS.tsv	right lobe of liver	ENCFF850OBS
+ENCFF096SPQ.tsv	gastrocnemius medialis	ENCFF096SPQ
+ENCFF605ORY.tsv	esophagus squamous epithelium	ENCFF605ORY
+ENCFF495AYZ.tsv	tibial nerve	ENCFF495AYZ
+ENCFF702BES.tsv	sigmoid colon	ENCFF702BES
+ENCFF884ZHJ.tsv	gastroesophageal sphincter	ENCFF884ZHJ
+ENCFF611ACI.tsv	stomach	ENCFF611ACI
+ENCFF332SNL.tsv	right atrium auricular region	ENCFF332SNL
+ENCFF467TWZ.tsv	gastrocnemius medialis	ENCFF467TWZ
+ENCFF061BJL.tsv	ovary	ENCFF061BJL
+ENCFF530KIE.tsv	spleen	ENCFF530KIE
+ENCFF090GQE.tsv	esophagus muscularis mucosa	ENCFF090GQE
+ENCFF627ZCI.tsv	omental fat pad	ENCFF627ZCI
+ENCFF458MLB.tsv	vagina	ENCFF458MLB
+ENCFF998IFH.tsv	right lobe of liver	ENCFF998IFH
+ENCFF939MHB.tsv	upper lobe of left lung	ENCFF939MHB
+ENCFF366BBV.tsv	transverse colon	ENCFF366BBV
+ENCFF906OMD.tsv	breast epithelium	ENCFF906OMD
+ENCFF398VOV.tsv	tibial nerve	ENCFF398VOV
+ENCFF795IDG.tsv	body of pancreas	ENCFF795IDG
+ENCFF995DNJ.tsv	dendritic cell	ENCFF995DNJ
+ENCFF463WWB.tsv	Peyer's patch	ENCFF463WWB
+ENCFF604YLU.tsv	spleen	ENCFF604YLU
+ENCFF390GTC.tsv	gastroesophageal sphincter	ENCFF390GTC
+ENCFF261VFJ.tsv	Peyer's patch	ENCFF261VFJ
+ENCFF502KTX.tsv	esophagus squamous epithelium	ENCFF502KTX
+ENCFF056CEY.tsv	sigmoid colon	ENCFF056CEY
+ENCFF993HSV.tsv	esophagus muscularis mucosa	ENCFF993HSV
+ENCFF008KKP.tsv	dendritic cell	ENCFF008KKP
+ENCFF005RLW.tsv	tibial nerve	ENCFF005RLW
+ENCFF682JCA.tsv	subcutaneous adipose tissue	ENCFF682JCA
+ENCFF042TKK.tsv	dendritic cell	ENCFF042TKK
+ENCFF495PZM.tsv	dendritic cell	ENCFF495PZM
+ENCFF612UEF.tsv	spleen	ENCFF612UEF
+ENCFF858UNG.tsv	suprapubic skin	ENCFF858UNG
+ENCFF898UXF.tsv	ascending aorta	ENCFF898UXF
+ENCFF016HGS.tsv	thyroid gland	ENCFF016HGS
+ENCFF259PFY.tsv	testis	ENCFF259PFY
+ENCFF273KTX.tsv	uterus	ENCFF273KTX
+ENCFF283HWB.tsv	uterus	ENCFF283HWB
+ENCFF875UFG.tsv	transverse colon	ENCFF875UFG
+ENCFF588XFP.tsv	upper lobe of left lung	ENCFF588XFP
+ENCFF116EET.tsv	dendritic cell	ENCFF116EET
+ENCFF249NNL.tsv	esophagus muscularis mucosa	ENCFF249NNL
+ENCFF349CDS.tsv	dendritic cell	ENCFF349CDS
+ENCFF076NNR.tsv	upper lobe of left lung	ENCFF076NNR
+ENCFF064QSR.tsv	omental fat pad	ENCFF064QSR
+ENCFF840HII.tsv	dendritic cell	ENCFF840HII
+ENCFF014JRQ.tsv	IMR-90	ENCFF014JRQ
+ENCFF866SAB.tsv	breast epithelium	ENCFF866SAB
+ENCFF306SMM.tsv	gastroesophageal sphincter	ENCFF306SMM
+ENCFF288JWC.tsv	gastrocnemius medialis	ENCFF288JWC
+ENCFF174HFD.tsv	dendritic cell	ENCFF174HFD
+ENCFF673GJW.tsv	suprapubic skin	ENCFF673GJW
+ENCFF660ZOT.tsv	Peyer's patch	ENCFF660ZOT
+ENCFF008RKC.tsv	adrenal gland	ENCFF008RKC
+ENCFF852GKK.tsv	lower leg skin	ENCFF852GKK
+ENCFF427XCA.tsv	dendritic cell	ENCFF427XCA
+ENCFF082QRB.tsv	esophagus muscularis mucosa	ENCFF082QRB
+ENCFF193ERL.tsv	breast epithelium	ENCFF193ERL
+ENCFF299RPU.tsv	suprapubic skin	ENCFF299RPU
+ENCFF222PXI.tsv	gastroesophageal sphincter	ENCFF222PXI
+ENCFF705RJE.tsv	dendritic cell	ENCFF705RJE
+ENCFF380WQC.tsv	ovary	ENCFF380WQC
+ENCFF995GSB.tsv	body of pancreas	ENCFF995GSB
+ENCFF485OGN.tsv	prostate gland	ENCFF485OGN
+ENCFF599AFQ.tsv	lower leg skin	ENCFF599AFQ
+ENCFF801VQX.tsv	transverse colon	ENCFF801VQX
+ENCFF661RYJ.tsv	adrenal gland	ENCFF661RYJ
+ENCFF751ODP.tsv	suprapubic skin	ENCFF751ODP
+ENCFF596GXF.tsv	Peyer's patch	ENCFF596GXF
+ENCFF080JPL.tsv	spleen	ENCFF080JPL
+ENCFF042VIA.tsv	prostate gland	ENCFF042VIA
+ENCFF009IKX.tsv	dendritic cell	ENCFF009IKX
+ENCFF795SXL.tsv	lower leg skin	ENCFF795SXL
+ENCFF776BTK.tsv	stomach	ENCFF776BTK
+ENCFF632UQN.tsv	thyroid gland	ENCFF632UQN
+ENCFF732HBO.tsv	testis	ENCFF732HBO
+ENCFF209NYA.tsv	dendritic cell	ENCFF209NYA
+ENCFF977ZRU.tsv	dendritic cell	ENCFF977ZRU
+ENCFF951EEA.tsv	H1	ENCFF951EEA
+ENCFF766VIZ.tsv	lower leg skin	ENCFF766VIZ
+ENCFF391YMU.tsv	dendritic cell	ENCFF391YMU
+ENCFF316BTV.tsv	subcutaneous adipose tissue	ENCFF316BTV
+ENCFF327QEE.tsv	dendritic cell	ENCFF327QEE
+ENCFF414QHM.tsv	dendritic cell	ENCFF414QHM
+ENCFF859QWL.tsv	placenta	ENCFF859QWL
+ENCFF735XYK.tsv	upper lobe of left lung	ENCFF735XYK
+ENCFF043HPQ.tsv	dendritic cell	ENCFF043HPQ
+ENCFF311HGE.tsv	heart left ventricle	ENCFF311HGE
+ENCFF056JMG.tsv	HFFc6	ENCFF056JMG
+ENCFF155ZUU.tsv	astrocyte	ENCFF155ZUU
+ENCFF917WYN.tsv	aorta	ENCFF917WYN
+ENCFF002NOM.tsv	placenta	ENCFF002NOM
+ENCFF653OLW.tsv	kidney	ENCFF653OLW
+ENCFF119FZL.tsv	left cardiac atrium	ENCFF119FZL
+ENCFF997RHB.tsv	HFFc6	ENCFF997RHB
+ENCFF683JSC.tsv	stomach	ENCFF683JSC
+ENCFF539KXZ.tsv	adrenal gland	ENCFF539KXZ
+ENCFF890XTW.tsv	spleen	ENCFF890XTW
+ENCFF435PHM.tsv	HCT116	ENCFF435PHM
+ENCFF480KNS.tsv	lower lobe of right lung	ENCFF480KNS
+ENCFF320BJB.tsv	placenta	ENCFF320BJB
+ENCFF217MKR.tsv	chondrocyte	ENCFF217MKR
+ENCFF290ZZQ.tsv	neural crest cell	ENCFF290ZZQ
+ENCFF910OBU.tsv	H1	ENCFF910OBU
+ENCFF178KKE.tsv	WTC11	ENCFF178KKE
+ENCFF826BEQ.tsv	right cardiac atrium	ENCFF826BEQ
+ENCFF617JTM.tsv	PC-3	ENCFF617JTM
+ENCFF434VRE.tsv	right cardiac atrium	ENCFF434VRE
+ENCFF421TJX.tsv	K562	ENCFF421TJX
+ENCFF149KLH.tsv	placenta	ENCFF149KLH
+ENCFF759RCN.tsv	left lung	ENCFF759RCN
+ENCFF090XWE.tsv	T-cell	ENCFF090XWE
+ENCFF863QWG.tsv	HepG2	ENCFF863QWG
+ENCFF658HZH.tsv	posterior vena cava	ENCFF658HZH
+ENCFF741NOM.tsv	placenta	ENCFF741NOM
+ENCFF459HRW.tsv	placenta	ENCFF459HRW
+ENCFF973CPC.tsv	activated T-cell	ENCFF973CPC
+ENCFF019GCP.tsv	foreskin keratinocyte	ENCFF019GCP
+ENCFF241RWC.tsv	foreskin keratinocyte	ENCFF241RWC
+ENCFF141OXD.tsv	mesenteric fat pad	ENCFF141OXD
+ENCFF764ITI.tsv	pancreas	ENCFF764ITI
+ENCFF154PPT.tsv	HFFc6	ENCFF154PPT
+ENCFF062KDX.tsv	placenta	ENCFF062KDX
+ENCFF993QRD.tsv	right cardiac atrium	ENCFF993QRD
+ENCFF792KTB.tsv	adrenal gland	ENCFF792KTB
+ENCFF288QKP.tsv	ovary	ENCFF288QKP
+ENCFF643LBM.tsv	endodermal cell	ENCFF643LBM
+ENCFF288NWG.tsv	pancreas	ENCFF288NWG
+ENCFF694CZM.tsv	placenta	ENCFF694CZM
+ENCFF860KFR.tsv	mesothelial cell of epicardium	ENCFF860KFR
+ENCFF852WKI.tsv	lower lobe of left lung	ENCFF852WKI
+ENCFF993FDD.tsv	adrenal gland	ENCFF993FDD
+ENCFF228JXX.tsv	lower lobe of left lung	ENCFF228JXX
+ENCFF325KTI.tsv	IMR-90	ENCFF325KTI
+ENCFF568EVC.tsv	aorta	ENCFF568EVC
+ENCFF721BRA.tsv	MCF-7	ENCFF721BRA
+ENCFF952GZT.tsv	posterior vena cava	ENCFF952GZT
+ENCFF651KGY.tsv	left ventricle myocardium superior	ENCFF651KGY
+ENCFF143INW.tsv	spleen	ENCFF143INW
+ENCFF022DRF.tsv	spleen	ENCFF022DRF
+ENCFF395XDK.tsv	H1	ENCFF395XDK
+ENCFF629LFN.tsv	psoas muscle	ENCFF629LFN
+ENCFF483MRL.tsv	excitatory neuron	ENCFF483MRL
+ENCFF394BIS.tsv	left ventricle myocardium inferior	ENCFF394BIS
+ENCFF928NYA.tsv	K562	ENCFF928NYA
+ENCFF238QSB.tsv	activated T-cell	ENCFF238QSB
+ENCFF597QME.tsv	psoas muscle	ENCFF597QME
+ENCFF285AKX.tsv	colonic mucosa	ENCFF285AKX
+ENCFF084FUG.tsv	GM12878	ENCFF084FUG
+ENCFF717WSV.tsv	Right ventricle myocardium superior	ENCFF717WSV
+ENCFF296APA.tsv	left lobe of liver	ENCFF296APA
+ENCFF492RBW.tsv	T-cell	ENCFF492RBW
+ENCFF090JUO.tsv	activated T-cell	ENCFF090JUO
+ENCFF471MPG.tsv	heart right ventricle	ENCFF471MPG
+ENCFF093OCA.tsv	ovary	ENCFF093OCA
+ENCFF787FKA.tsv	T-cell	ENCFF787FKA
+ENCFF889NCM.tsv	upper lobe of left lung	ENCFF889NCM
+ENCFF333KZV.tsv	mucosa of gallbladder	ENCFF333KZV
+ENCFF892OHT.tsv	endothelial cell	ENCFF892OHT
+ENCFF345SHY.tsv	GM12878	ENCFF345SHY
+ENCFF111ORO.tsv	progenitor cell of endocrine pancreas	ENCFF111ORO
+ENCFF378HMN.tsv	ovary	ENCFF378HMN
+ENCFF948IEB.tsv	HFFc6	ENCFF948IEB
+ENCFF408FCD.tsv	heart left ventricle	ENCFF408FCD
+ENCFF299BMI.tsv	type B pancreatic cell	ENCFF299BMI
+ENCFF544IKF.tsv	activated naive CD8-positive, alpha-beta T cell	ENCFF544IKF
+ENCFF169LQZ.tsv	colonic mucosa	ENCFF169LQZ
+ENCFF705DBY.tsv	activated naive CD4-positive, alpha-beta T cell	ENCFF705DBY
+ENCFF440HGB.tsv	heart left ventricle	ENCFF440HGB
+ENCFF635IYG.tsv	left colon	ENCFF635IYG
+ENCFF710IFD.tsv	Panc1	ENCFF710IFD
+ENCFF488KLW.tsv	pancreas	ENCFF488KLW
+ENCFF221IRL.tsv	placenta	ENCFF221IRL
+ENCFF169YTW.tsv	upper lobe of left lung	ENCFF169YTW
+ENCFF263XKP.tsv	HFFc6	ENCFF263XKP
+ENCFF940XNR.tsv	HFFc6	ENCFF940XNR
+ENCFF982CMC.tsv	placenta	ENCFF982CMC
+ENCFF769IPE.tsv	lung	ENCFF769IPE
+ENCFF784GEM.tsv	heart right ventricle	ENCFF784GEM
+ENCFF004TUO.tsv	pancreas	ENCFF004TUO
+ENCFF489CHJ.tsv	left lung	ENCFF489CHJ
+ENCFF892DWO.tsv	GM23338	ENCFF892DWO
+ENCFF216CFE.tsv	H9	ENCFF216CFE
+ENCFF840MWP.tsv	right cardiac atrium	ENCFF840MWP
+ENCFF036UCM.tsv	endodermal cell	ENCFF036UCM
+ENCFF607DVO.tsv	ovary	ENCFF607DVO
+ENCFF871JUN.tsv	osteocyte	ENCFF871JUN
+ENCFF854EYM.tsv	placenta	ENCFF854EYM
+ENCFF260VRG.tsv	sciatic nerve	ENCFF260VRG
+ENCFF821VVG.tsv	heart right ventricle	ENCFF821VVG
+ENCFF180ACE.tsv	mucosa of descending colon	ENCFF180ACE
+ENCFF740CHD.tsv	left cardiac atrium	ENCFF740CHD
+ENCFF856KIP.tsv	mucosa of descending colon	ENCFF856KIP
+ENCFF658KST.tsv	right lobe of liver	ENCFF658KST
+ENCFF378OOI.tsv	Right ventricle myocardium inferior	ENCFF378OOI
+ENCFF701OLG.tsv	right lobe of liver	ENCFF701OLG
+ENCFF103JDQ.tsv	upper lobe of right lung	ENCFF103JDQ
+ENCFF508PCH.tsv	left colon	ENCFF508PCH
+ENCFF687XPH.tsv	activated naive CD8-positive, alpha-beta T cell	ENCFF687XPH
+ENCFF884MLJ.tsv	activated naive CD4-positive, alpha-beta T cell	ENCFF884MLJ
+ENCFF460MYI.tsv	cardiac septum	ENCFF460MYI
+ENCFF258PUQ.tsv	pancreas	ENCFF258PUQ
+ENCFF932VTY.tsv	right lobe of liver	ENCFF932VTY
+ENCFF666YEO.tsv	activated naive CD8-positive, alpha-beta T cell	ENCFF666YEO
+ENCFF489OCT.tsv	activated naive CD4-positive, alpha-beta T cell	ENCFF489OCT
+ENCFF278GBV.tsv	spleen	ENCFF278GBV
+ENCFF613RIH.tsv	activated naive CD8-positive, alpha-beta T cell	ENCFF613RIH
+ENCFF866KGD.tsv	activated naive CD4-positive, alpha-beta T cell	ENCFF866KGD
