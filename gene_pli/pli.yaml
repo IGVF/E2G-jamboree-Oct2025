@@ -1,0 +1,12 @@
+name: pli
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - openpyxl
+  - xlrd
+  - tqdm
+  - pyreadr
+  - plotnine
