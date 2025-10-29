@@ -18,5 +18,7 @@ Feature columns:
 | Feature name | Description |
 | ------------ | ----------- |
 | MotifDensityJaspar2024 | Number of total PWM hits with pvalue<10^-5 divided by element length |
+| MotifCountsJaspar2024  | Number of total PWM hits with pvalue<10^-5 |
 | UniqueMotifDensityJaspar2024 | Number of unique PWM hits with pvalue<10^-5 divided by element length |
+| UniqueMotifCountsJaspar2024  | Number of unique PWM hits with pvalue<10^-5 |
 | CTCFMotifHitJaspar2024 | Binary presence/absence of at least one CTCF PWM hit with pvalue<10^-5 within element |
