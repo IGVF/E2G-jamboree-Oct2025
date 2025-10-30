@@ -49,6 +49,7 @@ e2g_universe_merged['LOEUF'] = e2g_universe_merged['LOEUF'].fillna(mean_loeuf)
 # write to output file
 e2g_universe_merged.to_csv(
     args.output_path,
+    sep = '\t'
     index = False
 )
 

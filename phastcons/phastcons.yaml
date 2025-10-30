@@ -1,0 +1,6 @@
+name: phastcons
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - pybigwig
