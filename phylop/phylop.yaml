@@ -1,0 +1,6 @@
+name: phylop
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - pybigwig

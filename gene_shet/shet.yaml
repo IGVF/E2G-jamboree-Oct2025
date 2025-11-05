@@ -1,0 +1,12 @@
+name: shet
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - openpyxl
+  - xlrd
+  - tqdm
+  - pyreadr
+  - plotnine
