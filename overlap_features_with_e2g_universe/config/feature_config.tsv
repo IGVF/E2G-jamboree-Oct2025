@@ -1,0 +1,3 @@
+feature_col	feature_rename	aggregation_function
+Score	pgBoost_Score	mean
+Percentile		mean

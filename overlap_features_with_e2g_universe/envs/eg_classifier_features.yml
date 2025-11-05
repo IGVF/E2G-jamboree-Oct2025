@@ -1,0 +1,20 @@
+name: eg_classifier_features
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+  - python=3.9.5
+  - pandas=1.2.4
+  - bedtools=2.30.0
+  - wget=1.20.3
+  - r-base=4.1.1
+  - r-r.utils=2.11.0
+  - r-data.table=1.14.2
+  - r-tidyverse=1.3.1
+  - r-ggpubr=0.4.0
+  - r-ggcorrplot=0.1.3
+  - r-argparse
+  - bioconductor-genomicranges=1.46.1
+  
