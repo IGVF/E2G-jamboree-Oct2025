@@ -17,7 +17,7 @@ def get_motif_features(motif_bigbed: pyBigWig, chrom, start, end, TF_name='CTCF'
 
     ctcf_motif_hit = int(any(TF_name in item[2].split('\t')[3] for item in filtered_hits))
 
-    return motif_density, uniq_motif_density, ctcf_motif_hit
+    return motif_density, n_hits, uniq_motif_density, uniq_n_hits, ctcf_motif_hit
 
 if __name__ == "__main__":
 
@@ -36,7 +36,7 @@ if __name__ == "__main__":
     # Load JASPAR2024 motif bigbed
     jaspar_bb = pyBigWig.open('data/raw/JASPAR2024.bb')
 
-    motif_features_list = ['MotifDensityJaspar2024', 'UniqueMotifDensityJaspar2024', 'CTCFMotifHitJaspar2024']
+    motif_features_list = ['MotifDensityJaspar2024', 'MotifCountsJaspar2024', 'UniqueMotifDensityJaspar2024', 'UniqueMotifCountsJaspar2024', 'CTCFMotifHitJaspar2024']
 
     # Calculate motif densities
     uniq_elements_df[motif_features_list] = pd.DataFrame(
