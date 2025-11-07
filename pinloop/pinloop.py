@@ -13,10 +13,12 @@ import sys
 import os
 
 print("reading ChIA-PET data . . .")
-chiapet = pd.read_table("ChIA-PET_final.tsv")
+chiapet = pd.read_table("ChIA-PET_final_filtered.tsv.gz")
 print("reading CRE-gene pairs . . .\n")
 pair_info = pd.read_table(sys.argv[1])
 pair_info["Pinloop"] = 0.0
+
+chiapet["loop_length"] = chiapet["center2"] - chiapet["center1"]
 
 
 def alloc_pinloop(df_rna, df_atac, df_chiapet, loc_keys=["GeneTSS", "center"]):
